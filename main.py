@@ -17,7 +17,7 @@ from pathlib import Path
 educational_programms = {}
 holydays_list = []
 
-# при сборке в исполняемый файл подключить C:/Python310/Lib/site-packages в --paths и C:/Python310/Lib/site-packages/pymorphy2_dicts_ru и contract_template.docx
+# при сборке (в pyinstaller) в исполняемый файл подключить C:/Python310/Lib/site-packages в --paths и C:/Python310/Lib/site-packages/pymorphy2_dicts_ru и contract_template.docx
 
 # дописать отображение в создании программы
 
